@@ -1,1 +1,2 @@
-dev config-dev.yml dev
+config:
+    info: "dev config-dev.yml dev"
